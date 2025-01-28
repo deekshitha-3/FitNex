@@ -65,8 +65,8 @@ The **AI Fitness Tracker** is an AI-powered workout assistant designed to help u
 
 ## **Contact**
 For questions or feedback, feel free to reach out via:
-- **Email**: [your-email@example.com](mailto:deekshitha1325@gmail.com)
-- **GitHub**: [your-github-username](https://github.com/deekshitha-3)
+- **Email**: [deekshitha1325@gmail.com](mailto:deekshitha1325@gmail.com)
+- **GitHub**: [https://github.com/deekshitha-3](https://github.com/deekshitha-3)
 
 
 This project serves as the foundation for a comprehensive **AI Fitness Trainer Project**. 
