@@ -1,10 +1,10 @@
-# **AI Fitness Tracker**  
+# **FitNex - AI Powered Fitness Tracker**  
 _A project developed as part of the **AICTE Internship**_
 
 ---
 
 ## **About the Project**
-The **AI Fitness Tracker** is an AI-powered workout assistant designed to help users track their workout repetitions accurately. Using computer vision techniques and real-time pose estimation, the app analyzes workout videos or live webcam feeds to provide feedback during exercise sessions. This project is the foundation for a full-fledged AI fitness trainer application, with plans to add advanced features and an improved user interface.
+**FitNex** is an AI-powered workout assistant designed to help users track their workout repetitions accurately. Using computer vision techniques and real-time pose estimation, the app analyzes workout videos or live webcam feeds to provide feedback during exercise sessions. This project is the foundation for a full-fledged AI fitness trainer application, with plans to add advanced features and an improved user interface.
 
 ---
 
@@ -69,6 +69,6 @@ For questions or feedback, feel free to reach out via:
 - **GitHub**: [https://github.com/deekshitha-3](https://github.com/deekshitha-3)
 
 
-This project serves as the foundation for a comprehensive **AI Fitness Trainer Project**. 
+This project serves as the foundation for a comprehensive **AI Fitness Trainer Project - FitNex**. 
 
 
